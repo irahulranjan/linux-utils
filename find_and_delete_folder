@@ -1,0 +1,1 @@
+find . | grep .git | xargs rm -rf
